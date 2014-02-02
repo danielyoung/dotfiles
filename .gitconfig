@@ -1,0 +1,11 @@
+[user]
+  name = Daniel Young
+  email = young.daniel88@gmail.com
+[core]
+  editor = subl -w
+  excludesfile = /Users/danielyoung/.gitignore
+[color]
+  ui = always
+[alias]
+  co = checkout
+  s = status

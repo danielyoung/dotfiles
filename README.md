@@ -1,4 +1,4 @@
-dotfiles
+Dotfiles
 ========
 
-My precious dotfiles
+My precious dotfiles!
