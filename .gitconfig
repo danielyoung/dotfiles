@@ -6,6 +6,13 @@
   excludesfile = /Users/danielyoung/.gitignore
 [color]
   ui = always
+[color "status"]
+  added = green
+  changed = yellow
+  untracked = cyan
 [alias]
   co = checkout
-  s = status
+  s = status -s -b
+  d = diff
+[advice]
+  statusHints = false
